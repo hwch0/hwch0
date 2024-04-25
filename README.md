@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
  <div align="center">
-![hwch0's GitHub state](https://github-readme-stats.vercel.app/api/top-langs/?username=hwch0&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwch0&layout=compact&theme=dracula" />&nbsp
 </div>
 
 <!--내용 부분-->
