@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwch0&layout=compact&theme=dracula)
-</div>
+![hwch0's GitHub state](https://github-readme-stats.vercel.app/api/top-langs/?username=hwch0&layout=compact&theme=dracula)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
